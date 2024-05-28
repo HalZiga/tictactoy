@@ -1,0 +1,13 @@
+# ninja log v5
+5	117	7386104034490105	tictactoe_autogen/timestamp	934ffbc3b1602174
+960	1155	7385467594294238	D:/qt/Projects/tictactoe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/tictactoe_autogen/EWIEGA46WW/qrc_resos.cpp	ff85fc47dc61bff2
+1186	5975	7385467642475678	CMakeFiles/tictactoe.dir/stylehelper.cpp.obj	4e2e4cd34a9623ec
+5	117	7386104034490105	tictactoe_autogen/mocs_compilation.cpp	934ffbc3b1602174
+5	117	7386104034490105	D:/qt/Projects/tictactoe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/tictactoe_autogen/mocs_compilation.cpp	934ffbc3b1602174
+960	1155	7385467594294238	tictactoe_autogen/EWIEGA46WW/qrc_resos.cpp	ff85fc47dc61bff2
+716	3000	7386093392052731	CMakeFiles/tictactoe.dir/tictactoe_autogen/mocs_compilation.cpp.obj	fb86407cc349bae0
+5	117	7386104034490105	D:/qt/Projects/tictactoe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/tictactoe_autogen/timestamp	934ffbc3b1602174
+1217	3958	7385467622050054	CMakeFiles/tictactoe.dir/tictactoe_autogen/EWIEGA46WW/qrc_resos.cpp.obj	597118d27c20c214
+804	2997	7386093392012847	CMakeFiles/tictactoe.dir/main.cpp.obj	308e76399621c35e
+120	2393	7386104057221579	CMakeFiles/tictactoe.dir/widget.cpp.obj	b2a46dedd219474f
+2394	2793	7386104061211338	tictactoe.exe	ee5029ac86848e18

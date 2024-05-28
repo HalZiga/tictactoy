@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "D:/qt/Projects/tictactoe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/tictactoe_autogen",
+	"CMAKE_BINARY_DIR" : "D:/qt/Projects/tictactoe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/qt/Projects/tictactoe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/qt/Projects/tictactoe",
+	"CMAKE_SOURCE_DIR" : "D:/qt/Projects/tictactoe",
+	"INCLUDE_DIR" : "D:/qt/Projects/tictactoe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/tictactoe_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/qt/Projects/tictactoe/resi/zero_large.png",
+		"D:/qt/Projects/tictactoe/resi/cross_large.png",
+		"D:/qt/Projects/tictactoe/resi/back_widget.jpg",
+		"D:/qt/Projects/tictactoe/resi/Roboto-MediumItalic.ttf",
+		"D:/qt/Projects/tictactoe/resi/zero_small.png",
+		"D:/qt/Projects/tictactoe/resi/Roboto-Medium.ttf",
+		"D:/qt/Projects/tictactoe/resi/cross_small.png"
+	],
+	"LOCK_FILE" : "D:/qt/Projects/tictactoe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/CMakeFiles/tictactoe_autogen.dir/AutoRcc_resos_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resos" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resos.cpp",
+	"RCC_EXECUTABLE" : "D:/qt/6.7.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/qt/Projects/tictactoe/build/Desktop_Qt_6_7_0_MinGW_64_bit-Release/CMakeFiles/tictactoe_autogen.dir/AutoRcc_resos_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/qt/Projects/tictactoe/resos.qrc",
+	"VERBOSITY" : 0
+}
